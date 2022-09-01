@@ -1,5 +1,5 @@
-# OneAI   ![](https://i.imgur.com/obn28CF.png =10%x)
-https://oneai.twcc.ai <font size=1>operated by TWS(Taiwan Web Services)</font><br>
+# OneAI 
+https://oneai.twcc.ai <font size=1>operated by [TWS (Taiwan Web Services)]()</font><br>
 > notice: you can change language by google translate extension
 ### Introduction
 OneAI is a MLOps platform integrating various open-source tools with a gentle user interface. You can use OneAI to boost and improve your AI/ML modeling and application workflows. This github provides tutorials that demonstrate how easy to get started with OneAI.
