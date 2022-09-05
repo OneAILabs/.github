@@ -13,6 +13,9 @@ OneAI is a MLOps platform integrating various open-source tools with a gentle us
 1. [Image Classification](https://github.com/OneAILabs/Image-Classification)
 2. [Object Detection with YOLOv4](https://github.com/OneAILabs/ObjectDetection_yolov4)
 
+### Examples
+1. Stock Price Prediction
+
 
 
 
